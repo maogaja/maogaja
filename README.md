@@ -2,11 +2,12 @@
 ### :Hi there, my name is Maalin 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1></div>  
-<div></div>I am a Software Engineer who transitioned from healthcare to full-stack web development.</div>
+<p></div>I am a Software Engineer who transitioned from healthcare to full-stack web development.</p>
 
-<div>I use web development tools to create dynamic, web accessible and responsive web applications using HTML, CSS, JavaScript. It is exciting to discover that these Front-end development skills ignite my creative and problem solving skills.</div>
+<p>I use web development tools to create dynamic, web accessible and responsive web applications using HTML, CSS, JavaScript. It is exciting to discover that these Front-end development skills ignite my creative and problem solving skills.</p>
 
-I always remind myself that every individual piece of myself has to be replaced and refunctioned to get the best version of myself, and learning these new skills has been a real eye opener of my abilities and capabilities.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>I always remind myself that every individual piece of myself has to be replaced and refunctioned to get the best version of myself, and learning these new skills has been a real eye opener of my abilities and capabilities.</p>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </div>
 <div id="badges" align="center">
 ---
