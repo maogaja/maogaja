@@ -7,7 +7,7 @@
 <p>I use web development tools to create dynamic, web accessible and responsive web applications using HTML, CSS, JavaScript. It is exciting to discover that these Front-end development skills ignite my creative and problem solving skills.</p>
 
 <p>I always remind myself that every individual piece of myself has to be replaced and refunctioned to get the best version of myself, and learning these new skills has been a real eye opener of my abilities and capabilities.</p>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </div>
 <div id="badges" align="center">
 ---
