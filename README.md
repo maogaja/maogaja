@@ -8,11 +8,12 @@
 
 I always remind myself that every individual piece of myself has to be replaced and refunctioned to get the best version of myself, and learning these new skills has been a real eye opener of my abilities and capabilities.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </div>
-
-</div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/maalin-o-801a841b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+---
+  
+### Connect with me
+<a href="https://www.linkedin.com/in/maalin-o-801a841b3/">
+  <img align="left" alt="Maalin Ogaja | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/master/assets/twitter.svg"/>
   </a>
   <a href="https://twitter.com/moi2009">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
