@@ -22,8 +22,6 @@
 </a></div>
 <div><img src="https://komarev.com/ghpvc/?username=maogaja&style=flat-square&color=blue" alt=""/></div>
      <div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mogaja)](https://github.com/maogaja/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maogaja&layout=compact&theme=vision-friendly-dark)](https://github.com/maogaja/github-readme-stats)
 
