@@ -2,7 +2,6 @@
 ### Hi there, my name is Maalin 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1></div>  
-<p></div>I am a Software Engineer who transitioned from healthcare to full-stack web development.</p>
 
 <p>I use web development tools to create dynamic, web accessible and responsive web applications using HTML, CSS, JavaScript. It is exciting to discover that these Front-end development skills ignite my creative and problem solving skills.</p>
 
