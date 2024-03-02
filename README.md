@@ -2,8 +2,7 @@
 ### Hi there, my name is Maalin 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1></div>  
-
-<p>I use web development tools to create dynamic, web accessible and responsive web applications using HTML, CSS, JavaScript. It is exciting to discover that these Front-end development skills ignite my creative and problem solving skills.</p>
+<p>I am currently learning web development to create dynamic, web accessible and responsive web applications, and how I can use this to enhace the customer service experience. I am currently learning HTML, CSS, JavaScript. It is exciting to discover that these Front-end development skills ignite my creative and problem solving skills.</p>
 
 <p>I always remind myself that every individual piece of myself has to be replaced and refunctioned to get the best version of myself, and learning these new skills has been a real eye opener of my abilities and capabilities.</p>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
