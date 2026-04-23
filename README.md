@@ -21,7 +21,12 @@
 <div><img src="https://komarev.com/ghpvc/?username=maogaja&style=flat-square&color=blue" alt=""/></div>
      <div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maogaja&layout=compact&theme=vision-friendly-dark)](https://github.com/maogaja/github-readme-stats)
+readme-stats)
+
+## 🛠 Tech Stack
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) 
 
 
 
