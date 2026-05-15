@@ -2,7 +2,7 @@
 ### Hi there, my name is Maalin 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1></div>  
-<p>I am a Data Analytics enthusiast — curious, driven, and genuinely thrilled by what data can reveal. With a background in Healthcare Management and Customer Service, I have spent years sitting at the intersection of people, processes, and decisions. Now I am channeling all of that experience into something even more powerful: learning to ask better questions, find hidden patterns, and turn raw numbers into real, human impact. The journey has only just begun, and honestly? I cannot wait to see where the data leads..</p>
+<p>I am a Data Analytics enthusiast — curious, driven, and genuinely thrilled by what data can reveal. With a background in Healthcare Management and Customer Service, I have spent years sitting at the intersection of people, processes, and decisions. Now I am channeling all of that experience into something even more powerful: learning to ask better questions, find hidden patterns, and turn raw numbers into real, human impact. The journey has only just begun, and honestly? I cannot wait to see where the data leads.....</p>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </div>
