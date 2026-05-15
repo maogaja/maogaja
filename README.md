@@ -2,9 +2,8 @@
 ### Hi there, my name is Maalin 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1></div>  
-<p>I am currently learning web development to create dynamic, web accessible and responsive web applications, and how I can use this to enhace the customer service experience. I am currently learning HTML, CSS, JavaScript. It is exciting to discover that these Front-end development skills ignite my creative and problem solving skills.</p>
+<p>I am a Data Analytics enthusiast — curious, driven, and genuinely thrilled by what data can reveal. With a background in Healthcare Management and Customer Service, I have spent years sitting at the intersection of people, processes, and decisions. Now I am channeling all of that experience into something even more powerful: learning to ask better questions, find hidden patterns, and turn raw numbers into real, human impact. The journey has only just begun, and honestly? I cannot wait to see where the data leads..</p>
 
-<p>I always remind myself that every individual piece of myself has to be replaced and refunctioned to get the best version of myself, and learning these new skills has been a real eye opener of my abilities and capabilities.</p>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </div>
 <div id="badges" align="center">
